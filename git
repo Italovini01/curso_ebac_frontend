@@ -1,0 +1,29 @@
+[33mcommit e49633b09e5578647da0748c0558c6a89760a848[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mexercicio_git1[m[33m)[m
+Author: italo Vinicius <italorodrigues476@icloud.com>
+Date:   Sun Jan 28 22:31:33 2024 +0000
+
+    incluindo o conteudo curso_ebac_frontend/
+
+[33mcommit 0b15461a5df94b5de1dfe825d0470ad2551e9d0e[m
+Author: italo Vinicius <italorodrigues476@icloud.com>
+Date:   Sun Jan 28 20:59:54 2024 +0000
+
+    adição de um novo arquivo
+
+[33mcommit 94eb1bc37e9348b47b04517c9f34a2ba98d1d44a[m[33m ([m[1;32mmain[m[33m, [m[1;32mbranch-b[m[33m)[m
+Author: italo Vinicius <italorodrigues476@icloud.com>
+Date:   Sun Jan 28 19:12:32 2024 +0000
+
+    primeiro commit
+
+[33mcommit b1fc34b5bb723d7eea139a4eeb531610f4a2e7a4[m[33m ([m[1;31morigin/feature/new_file[m[33m, [m[1;32mfeature/new_file[m[33m)[m
+Author: italo Vinicius <italorodrigues476@icloud.com>
+Date:   Sat Jan 27 17:38:47 2024 +0000
+
+    add new file
+
+[33mcommit e2fd92dd89927678dee4511a99612309373f2855[m
+Author: italo Vinicius <italorodrigues476@icloud.com>
+Date:   Sat Jan 27 16:52:23 2024 +0000
+
+    inclusão de changelog.md
