@@ -1,0 +1,21 @@
+/* .produto {
+    font-size: 48px;
+}
+
+.produto-imagem{
+    padding: 8px;
+    border: 1px solid #333;
+    border-radius: 8px;
+    display: inline-block;
+}
+
+.produto em-destaque {
+    font-size: 18px;
+} */
+
+.produto-nome {
+    /* elemento */
+    font-size: 1.2em;
+    margin: 8px 0;
+}
+
